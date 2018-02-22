@@ -1,7 +1,7 @@
 //@author: Demouser
 var mi = mi || {};
 
-mi.auth = {
+mi.auth = { //entry point
     whiteListedPages : [
         mi.sitemap.LOGIN
     ],
