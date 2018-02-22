@@ -1,4 +1,4 @@
-
+//@author: Demouser
 var mi = mi || {};
 
 mi.auth = {
