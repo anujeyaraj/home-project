@@ -1,5 +1,6 @@
 //@author: Demouser
 //@desc: This is a dummy file 
+//@comment: Hello world
 var mi = mi || {};
 
 mi.auth = {
